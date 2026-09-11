@@ -1,4 +1,4 @@
-# Implementation Plan
+# Implementation Plan.
 
 ## Succinct Accountable Stake-Weighted Multi-Signatures for PoS Finality
 
