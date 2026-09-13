@@ -6,7 +6,7 @@ Companion to the research proposal. This plan covers the full path — cryptogra
 
 ---
 
-### 0. Read this first: calibration and honest constraints
+### 0. Read this first: calibration and honest constraints.
 
 This project stacks four independently hard things: originating a sound cryptographic primitive, implementing crypto correctly, learning Rust and Go from zero, and bridging them with FFI. That is ambitious for a solo effort, and the plan is structured to protect you from the two ways it most commonly fails.
 
